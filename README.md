@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mountain-clouds.svg" width="100%" alt="Pixel mountain landscape with moving clouds" />
+  <img src="/mountain-clouds.svg" width="100%" alt="Pixel mountain landscape with moving clouds" />
 </p>
 
 # Zubia Nasir
