@@ -1,33 +1,12 @@
+<p align="center">
+  <img src="./assets/mountain-clouds.svg" width="100%" alt="Pixel mountain landscape with moving clouds" />
+</p>
+
 # Zubia Nasir
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Zubia%20Nasir&fontAlign=50&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Agentic%20Workflows&descAlign=50&descAlignY=58&animation=fadeIn" />
-</p>
+Backend Engineer focused on **AI systems**, **agentic workflows**, and **scalable infrastructure**.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=21&pause=1200&center=true&vCenter=true&width=720&lines=Building+scalable+backend+systems;Designing+agentic+AI+workflows;Shipping+production-ready+AI+infrastructure" />
-</p>
-
-<p align="center">
-  <a href="./resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-2E8B57?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="mailto:zubianasir@proton.me">
-    <img src="https://img.shields.io/badge/Email-Contact-1F6FEB?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🏔️ About
-
-Backend Engineer focused on building reliable APIs, AI-powered systems, and agentic workflows.
-
-I work across backend architecture, LLM orchestration, automation pipelines, and scalable infrastructure.
-
----
-
-## 🧭 Current Direction
+## Focus
 
 - Agentic AI systems
 - LLM orchestration and evaluation
@@ -35,59 +14,27 @@ I work across backend architecture, LLM orchestration, automation pipelines, and
 - AI automation workflows
 - MLOps and deployment
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,aws,docker,mongodb,redis,linux,postgres" />
 </p>
 
-**Backend**  
-Python • FastAPI • Node.js • TypeScript
+## Featured Work
 
-**AI Engineering**  
-OpenAI • Gemini • LangGraph • RAG • AI Evaluation
-
-**Infrastructure**  
-AWS • Docker • Linux • Redis
-
-**Databases**  
-MongoDB • PostgreSQL
-
----
-
-## 🏕️ Selected Work
-
-### AI News Intelligence Platform  
+**AI News Intelligence Platform**  
 Multi-agent system for large-scale news ingestion, analysis, and insight generation.
 
-### Agent-Orchestrated AI Workflows  
+**Agent-Orchestrated Workflows**  
 Specialized agents for task decomposition, analysis, and automated reporting.
 
-### Production AI Infrastructure  
+**Production AI Infrastructure**  
 Backend services and deployment pipelines for AI-powered products.
 
----
+## Resume
 
-## 📊 GitHub Activity
+[View Resume](./resume.pdf)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zu-bi-a&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zu-bi-a&layout=compact&hide_border=true" />
-</p>
+## Connect
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zu-bi-a&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect
-
-- LinkedIn: [linkedin.com/in/zubia-nasir](https://www.linkedin.com/in/zubia-nasir-766409105/)
-- Email: zubianasir@proton.me
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/zubia-nasir-766409105/) · [Email](mailto:zubianasir@proton.me)
