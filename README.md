@@ -2,9 +2,8 @@
   <img src="/mountain-clouds.svg" width="100%" alt="Pixel mountain landscape with moving clouds" />
 </p>
 
-Backend Engineer focused on **AI systems**, **agentic workflows**, and **scalable infrastructure**.
+I am a backend Engineer currently interested in the following
 
-## Focus
 - Agentic AI systems
 - LLM orchestration and evaluation
 - Backend architecture
@@ -12,14 +11,13 @@ Backend Engineer focused on **AI systems**, **agentic workflows**, and **scalabl
 - MLOps and deployment
 
 ## Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,aws,docker,mongodb,redis,linux,postgres" />
 </p>
 
 ## Resume
 
-📄[View Resume](./resume.pdf)
+📄 [View Resume](./resume.pdf)
 
 ## Connect
 
