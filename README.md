@@ -73,19 +73,19 @@ Backend services and deployment pipelines for AI-powered products.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zu-bi-a&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zu-bi-a&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=zu-bi-a&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Connect
 
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- LinkedIn: [linkedin.com/in/zubia-nasir](https://www.linkedin.com/in/zubia-nasir-766409105/)
 - Email: zubianasir@proton.me
 
 <p align="center">
