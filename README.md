@@ -4,9 +4,9 @@
 
 I am a backend Engineer currently interested in the following
 
+- Backend architecture and system design
 - Agentic AI systems
 - LLM orchestration and evaluation
-- Backend architecture
 - AI automation workflows
 - MLOps and deployment
 
